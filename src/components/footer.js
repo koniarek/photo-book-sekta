@@ -35,9 +35,9 @@ export default class Footer extends React.Component {
 					<Socials />
 	<span>| millennium | 51 1160 2202 0000 0002 6070 5913 | junkietosekta.pl | tedoendoce | junkierap |</span>
 			       <p>
-							<FaCopyright /> Copyright {new Date().getFullYear()}. junkietosekta.pl | All rights reserved. Developed by{' '}
-							<a href="https://skwebarchitecture.com/">Szymon Koniarek</a>.
-						</p>
+			<FaCopyright /> Copyright {new Date().getFullYear()}. junkietosekta.pl | All rights reserved. Developed by{' '}
+			<a href="https://skwebarchitecture.com/">Szymon Koniarek</a>
+			      </p>
 				</div>
 			</footer>
 		)
